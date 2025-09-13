@@ -1,0 +1,16 @@
+audioop-lts==0.2.2
+certifi==2025.8.3
+charset-normalizer==3.4.3
+greenlet==3.2.4
+idna==3.10
+playwright==1.55.0
+playwright-recaptcha==0.5.1
+pydub==0.25.1
+pyee==13.0.0
+requests==2.32.5
+SpeechRecognition==3.10.4
+standard-aifc==3.13.0
+standard-chunk==3.13.0
+tenacity==8.3.0
+typing_extensions==4.15.0
+urllib3==2.5.0
